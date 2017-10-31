@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'css_mitra';
+  src: url("../fonts/mitra.eot");
+  src: url("../fonts/mitra.eot?#iefix") format("embedded-opentype"), url("../fonts/mitra.woff") format("woff"), url("../fonts/mitra.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'css_mitra_bold';
+  src: url("../fonts/mitra-bold.eot");
+  src: url("../fonts/mitra-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/mitra-bold.woff") format("woff"), url("../fonts/mitra-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+/*# sourceMappingURL=persian-fonts-mitra.css.map */

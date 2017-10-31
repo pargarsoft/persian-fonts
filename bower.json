@@ -1,0 +1,17 @@
+{
+  "name": "persian-fonts",
+  "authors": [
+    "javad helali <javadhelali@gmail.com>"
+  ],
+  "description": "a set of standard persian fonts for web development",
+  "main": "persian-fonts.css",
+  "keywords": [
+    "font",
+    "persian",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pargarsoft/persian-fonts.git",
+  "ignore": [
+  ]
+}

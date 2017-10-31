@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,UAQC;EAPG,WAAW,EAAE,WAAW;EACxB,GAAG,EAAE,yBAAyB;EAC9B,GAAG,EAAE,qJAE4C;EACjD,WAAW,EAAE,MAAM;EACnB,UAAU,EAAE,MAAM;AAEtB,UAQC;EAPG,WAAW,EAAE,gBAAgB;EAC7B,GAAG,EAAE,8BAA8B;EACnC,GAAG,EAAE,oKAEiD;EACtD,WAAW,EAAE,IAAI;EACjB,UAAU,EAAE,MAAM;AChBtB,UAQC;EAPG,WAAW,EAAE,UAAU;EACvB,GAAG,EAAE,wBAAwB;EAC7B,GAAG,EAAE,kJAE2C;EAChD,WAAW,EAAE,IAAI;EACjB,UAAU,EAAE,MAAM",
+"sources": ["../../src/scss/persian-fonts-mitra.scss","../../src/scss/persian-fonts-titr.scss"],
+"names": [],
+"file": "persian-fonts-all.css"
+}

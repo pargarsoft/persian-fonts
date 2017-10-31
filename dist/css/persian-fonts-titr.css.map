@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,UAQC;EAPG,WAAW,EAAE,UAAU;EACvB,GAAG,EAAE,wBAAwB;EAC7B,GAAG,EAAE,kJAE2C;EAChD,WAAW,EAAE,IAAI;EACjB,UAAU,EAAE,MAAM",
+"sources": ["../../src/scss/persian-fonts-titr.scss"],
+"names": [],
+"file": "persian-fonts-titr.css"
+}

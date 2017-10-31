@@ -1,0 +1,34 @@
+/**
+ *Copyright (c) 2017 javad helali (javadhelali@gmail.com)
+ *
+ *This software is released under the MIT License.
+ *https://opensource.org/licenses/MIT
+ */
+
+body{
+    direction: rtl;
+}
+
+.demo-box
+{
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px firebrick;
+    border-radius: 10px;
+}
+
+ .font-titr-15
+ {
+     font-family: css_titr;
+     font-size: 15pt;
+ }
+ .font-mitra-15
+ {
+     font-family: css_mitra;
+     font-size: 15pt;
+ }
+ .font-mitra-bold-15
+ {
+     font-family: css_mitra_bold;
+     font-size: 15pt;
+ }
