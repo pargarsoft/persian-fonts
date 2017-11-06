@@ -6,6 +6,8 @@
 -->
 
 
+
+
 # Persian Web Fonts
 
 A set of standard persian fonts for web designers and web developers.
@@ -34,3 +36,5 @@ now you can use persian fonts in your css/html code:
 
 ## License
 This code is distributed under the MIT License.
+
+Copyright (c) 2017 <a href='http://pargarsoft.com/'> PargarSoft Inc. </a>
